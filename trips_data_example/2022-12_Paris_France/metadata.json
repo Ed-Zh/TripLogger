@@ -1,0 +1,13 @@
+{
+    "id": "example-paris",
+    "start_date": "2022-12",
+    "end_date": "2022-12",
+    "city": "Paris",
+    "country": "France",
+    "notes": "Example trip: Christmas in Paris.",
+    "tags": [
+        "winter",
+        "holiday"
+    ],
+    "attachments": []
+}

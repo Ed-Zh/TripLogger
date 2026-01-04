@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.log
+.venv/
+trips_data/
+.DS_Store

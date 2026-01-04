@@ -1,0 +1,14 @@
+{
+    "id": "example-tokyo",
+    "start_date": "2023-05",
+    "end_date": "2023-05",
+    "city": "Tokyo",
+    "country": "Japan",
+    "notes": "Example trip: Exploring Akihabara and eating great ramen.",
+    "tags": [
+        "vacation",
+        "food",
+        "tech"
+    ],
+    "attachments": []
+}
